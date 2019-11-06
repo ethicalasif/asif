@@ -1,14 +1,14 @@
 # TBomb v1.6b
 An open-source SMS/call bomber for Linux And Termux.
 
-This script is only for educational purposes or to prank.
-Do not use this to harm others.
+This script is only for revenge purposes or to prank.
+use this to harm others.
 None of the developers/contributors are responsible for the misuse of TBomb.
 
 **You've been warned.**
 
 The script requires working network connection to work.
-No balance will be deducted for using this script to send SMS/calls.
+No balance wbe deducted for using this script to send SMS/calls.
 
 While doing infinite bombing use 2-3 seconds delay and 10 to 20 threads for maximum performance.
 
